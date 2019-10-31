@@ -7,6 +7,7 @@ Decorate model foreign key and navigation property with :
 - [ScaffoldingOptions("{{Property on relational class}}")]
 
 ## TODO :
-- Create Nuget package
+- Create Nuget package - DONE
 - Check with many to many relationships
-- Update Controller template with error handling 
+- Update Controller template with error/concurrency handling/messages
+- clean up duplicating functions 
