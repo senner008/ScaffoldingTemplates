@@ -1,6 +1,6 @@
 ## Install template
 - dotnet new --install Senner007Corporation.Mvc.Templates::1.0.0
-- dotnet new dotnet new Senner007Scaffolding
+- dotnet new Senner007Scaffolding
 
 ## To use:
 Decorate model foreign key and navigation property with :
