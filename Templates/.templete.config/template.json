@@ -1,0 +1,8 @@
+{
+    "$schema": "http://json.schemastore.org/template",
+    "author": "Senner007",
+    "classifications": [ "Common", "Console" ],
+    "identity": "Senner007Corporation.ConsoleTemplate.CSharp",
+    "name": "Senner007 Corporation Mvc Scaffolding",
+    "shortName": "Senner007Scaffolding"
+  }
